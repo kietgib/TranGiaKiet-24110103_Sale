@@ -1,0 +1,21 @@
+=== Inventory ===
+ID: 1 | Name: Book | Price: $10 | Stock: 5
+ID: 2 | Name: Laptop | Price: $800 | Stock: 2
+   Brand: Dell | Warranty: 24 months
+ID: 3 | Name: Phone | Price: $500 | Stock: 0
+   Brand: Samsung | Warranty: 12 months
+Added to cart: 10
+Added to cart: 800
+Out of stock!
+
+--- Cart Contents ---
+ID: 1 | Name: Book | Price: $10 | Stock: 4
+ID: 2 | Name: Laptop | Price: $800 | Stock: 1
+   Brand: Dell | Warranty: 24 months
+Total: $810
+
+After discount:
+ID: 2 | Name: Laptop | Price: $720 | Stock: 1
+   Brand: Dell | Warranty: 24 months
+
+Order confirmed. Total payment: $810
